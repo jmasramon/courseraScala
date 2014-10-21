@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/scala-2.10/classes" path="src/main/scala"/>
+	<classpathentry kind="src" output="target/scala-2.10/test-classes" path="src/test/scala"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="lib" path="lib_managed/jars/junit/junit/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="lib_managed/jars/org.hamcrest/hamcrest-core/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Volumes/DADES/downloads/scalatest_2.11-2.2.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/DADES/downloads/scala-xml_2.11-1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
